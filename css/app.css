@@ -11,6 +11,7 @@ html {
 
 body {
     background-color: seagreen;
+    border: 2px solid tomato;
     display: flex;
     margin: 0;
     height: 100%;
